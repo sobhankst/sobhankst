@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/developer-laptop-illustration.png" alt="Developer at Work" style="width:80%; border-radius:10px;"/>
+  <img src="https://github.com/sobhankst/sobhankst/blob/main/DALL%C2%B7E%202024-12-31%2015.38.52%20-%20A%20digital%20illustration%20of%20a%20developer%20working%20on%20a%20laptop%2C%20with%20a%20modern%20workspace%20including%20a%20sleek%20desk%2C%20minimalistic%20design%2C%20and%20some%20code%20on%20the%20s.webp" alt="Developer at Work" style="width:80%; border-radius:10px;"/>
   <h1>Hey There! I'm <span style="color:#6C63FF;">Sobhan</span> 👋</h1>
   <h3>Building the Web, One Pixel at a Time 🌐</h3>
 </div>
