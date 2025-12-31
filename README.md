@@ -1,79 +1,76 @@
+# 👋 Hi, I’m Abdus Sobhan
 
-<!-- README.md -->
+🎯 **Client-Focused WordPress Developer | Elementor Expert | Freelancer**
 
-<h1 align="center">Hi 👋, I'm Abdus Sobhan</h1>
-<h3 align="center">Front-End Developer | React & Next.js Specialist | TypeScript Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;React+%2F+Next.js+Specialist;Building+Creative+Web+Experiences" alt="Typing SVG" />
-</p>
+I help businesses and individuals build **professional, fast, and conversion-focused WordPress websites**. My priority is simple: **client satisfaction, clear communication, and reliable delivery**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A">
-    <img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=000000">
-    <img alt="Next.js Badge" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  </picture>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+I’m a **client-focused freelance WordPress developer** with real-world experience delivering projects for businesses and individuals. I specialize in building **clean, fast, and conversion-friendly WordPress websites** using Elementor.
+
+I believe great results come from understanding client goals first, then delivering solutions with **clear communication, honesty, and on-time delivery**. I don’t disappear after delivery — I support my clients long-term.
+
+* 💼 Freelance WordPress & Elementor Developer
+* 🤝 Strong client communication & reliability
+* ⚡ Speed, performance & clean UI focus
+* 🎯 Business-focused, not just design-focused
 
 ---
 
-## 📈 GitHub Stats
+## 🔧 Skills & Services
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sobhankst&show_icons=true&theme=tokyonight" alt="sobhankst GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobhankst&theme=tokyonight" alt="sobhankst streak stats" />
-</p>
+### 💻 Core Skills
 
----
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge\&logo=elementor\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## 🏆 GitHub Trophies
+### 🧰 Tools I Use
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sobhankst&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="sobhankst trophies" />
-</p>
-
----
-
-## 🌟 Let's Connect!
-
-<p align="left">
-  <a href="https://github.com/sobhankst" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="sobhankst GitHub" />
-  </a>
-  <a href="#" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sobhan.kst@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-## ⚡ Fun Fact
+## 📌 What I Can Do for You
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+* ✅ Complete WordPress website development
+* ✅ Elementor custom design (pixel-perfect)
+* ✅ Website speed & performance optimization
+* ✅ Bug fixes, layout issues & small tasks
+* ✅ Long-term support & clear communication
+
+> I don’t just build websites — I build **solutions that work for clients**.
 
 ---
 
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" alt="developer gif" width="100%">
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobhankst\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhankst\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Let’s Work Together
+
+I’m always open to new freelance projects and long-term collaborations. If you’re looking for a **reliable WordPress developer who communicates clearly and delivers on time**, I’d be happy to work with you.
+
+* 💼 Upwork: [https://www.upwork.com/freelancers/~013e40a4cbf4562c5b](https://www.upwork.com/freelancers/~013e40a4cbf4562c5b)
+* 🔗 LinkedIn: *Add your LinkedIn link*
+* 🌍 Portfolio: *Add your portfolio website*
+
+📩 Available for freelance work & ongoing support
+
+---
+
+## ⭐ Client-First Mindset
+
+> Clear communication, honest pricing, and on-time delivery — that’s how I work.
+
+⭐ Feel free to explore my repositories and reach out if you want to work together!
